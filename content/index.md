@@ -4,12 +4,12 @@ date = 2024-02-05T17:17:36+08:00
 draft = false
 +++
 
-PhD Candidate in Computer Applied Technology
-(Under supervision of [Dr. Yapeng Wang][yapeng] and co-supervision of [Prof. Wei Ke][wke])
-Macao Polytechnic University
+PhD Candidate in Computer Applied Technology  
+(Under supervision of [Dr. Yapeng Wang][yapeng] and co-supervision of [Prof. Wei Ke][wke])  
+Macao Polytechnic University  
 Macao SAR, China
 
-
+### Contact Info
 chakfong.chong@mpu.edu.mo (Primary)  
 chakfong.chong@gmail.com  
 ~~p1604994@ipm.edu.mo~~
@@ -26,19 +26,25 @@ BSc in Computing, Macao Polytechnic Institute (GPA 3.58/4.00)
 ## Publications
 
 -	[*Image projective transformation rectification with synthetic data for smartphone-captured chest X-ray photos classification*](https://doi.org/10.1016/j.compbiomed.2023.107277)  
-<strong>[**Chak Fong Chong**][max]</strong>, [Yapeng Wang][yapeng], [Benjamin Ng][bng], [Wuman Luo][amy], [Xu Yang][xu]\*  
+[**Chak Fong Chong**][max], [Yapeng Wang][yapeng], [Benjamin Ng][bng], [Wuman Luo][amy], [Xu Yang][xu]\*  
 Computers in Biology and Medicine, Elsevier. September 2023. **IF=7.7, JCR Q1.**
+-	[*Category-wise Fine-Tuning: Resisting Incorrect Pseudo-Labels in Multi-Label Image Classification with Partial Labels*](https://arxiv.org/abs/2401.16991)  
+[**Chak Fong Chong**][max], Xinyi Fang, [Jielong Guo][guo], [Yapeng Wang][yapeng]\*, [Wei Ke][wke], [Chan-Tong Lam][ctlam], [Sio-Kei Im][marcusim]  
+arxiv preprint.
 -	[*Category-Wise Fine-Tuning for Image Multi-label Classification with Partial Labels*](https://doi.org/10.1007/978-981-99-8145-8_26)  
-<strong>[**Chak Fong Chong**][max]</strong>, [Xu Yang][xu]\*, Tenglong Wang, [Wei Ke][wke], [Yapeng Wang][yapeng]  
+[**Chak Fong Chong**][max], [Xu Yang][xu]\*, Tenglong Wang, [Wei Ke][wke], [Yapeng Wang][yapeng]  
 2023 International Conference on Neural Information Processing (ICONIP). **CCF-C.**
+-	[*On the Correlations between Performance of Deep Networks and Its Robustness to Common Image Perturbations in Medical Image Interpretation*](https://doi.org/10.1109/DICTA60407.2023.00065)  
+[**Chak Fong Chong**][max], Xinyi Fang, [Xu Yang][xu], [Wuman Luo][amy], [Yapeng Wang][yapeng]  
+2023 Digital Image Computing: Techniques and Applications (DICTA).
 -	[*GAN-based Spatial Transformation Adversarial Method for Disease Classification on CXR Photographs by Smartphones*](https://doi.org/10.1109/DICTA52665.2021.9647192)  
-<strong>[**Chak Fong Chong**][max]</strong>, [Xu Yang][xu], [Wei Ke][wke], [Yapeng Wang][yapeng]  
+[**Chak Fong Chong**][max], [Xu Yang][xu], [Wei Ke][wke], [Yapeng Wang][yapeng]  
 2021 Digital Image Computing: Techniques and Applications (DICTA).
 -	[*Enhancing Classification Performance in Knee Magnetic Resonance Imaging Using Adversarial Data Augmentation*](https://doi.org/10.1109/ICSESS58500.2023.10293076)  
-[Zhongbo Yan](https://www.aspires.cc/about/), [Xu Yang][xu], <strong>[**Chak Fong Chong**][max]</strong>, [Yapeng Wang][yapeng]  
+[Zhongbo Yan](https://www.aspires.cc/about/), [Xu Yang][xu], [**Chak Fong Chong**][max], [Yapeng Wang][yapeng]  
 2023 IEEE 14th International Conference on Software Engineering and Service Science (ICSESS)
 -	[*Clustering Algorithms based Noise Identification from Air Pollution Monitoring Data*](https://doi.org/10.1109/CSDE56538.2022.10089276)  
-Xinyi Fang, <strong>[**Chak Fong Chong**][max]</strong>, [Xu Yang][xu], [Yapeng Wang][yapeng]  
+Xinyi Fang, [**Chak Fong Chong**][max], [Xu Yang][xu], [Yapeng Wang][yapeng]  
 2022 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)
 
 ## Achievements
@@ -73,11 +79,11 @@ Macao Polytechnic University
 
 ## Selected Scholarships
 
-- 2022 ~ 2025
+- 2022 ~ 2025 (expected)  
 Bolsa de Estudo Dr. Ho Chun. Macao Polytechnic University
-- 2020 ~ 2022
+- 2020 ~ 2022  
 Bolsas de Mérito de Pós-Graduados. DSES, Macao SAR, China
-- 2018 ~ 2020
+- 2018 ~ 2020  
 Bolsas de Estudo para o Ensino Superior: Bolsas de mérito. DSEJ, Macao SAR, China
 
 
@@ -88,3 +94,6 @@ Bolsas de Estudo para o Ensino Superior: Bolsas de mérito. DSEJ, Macao SAR, Chi
 [bng]: https://fca.mpu.edu.mo/profile/bng
 [amy]: https://scholar.google.com/citations?user=Qc5DlBsAAAAJ
 [wke]: https://www.researchgate.net/profile/Wei-Ke-5
+[guo]: https://www.researchgate.net/profile/Guo-Jielong
+[ctlam]: https://scholar.google.com/citations?user=GXD7ppMAAAAJ
+[marcusim]: https://orcid.org/0000-0002-5599-4300
