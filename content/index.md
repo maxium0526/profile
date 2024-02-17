@@ -52,11 +52,17 @@ Xinyi Fang, [**Chak Fong Chong**][max], [Xu Yang][xu], [Yapeng Wang][yapeng]
 - **State-of-the-art Performance** on the CheXpert chest X-ray classification competition dataset
 - **State-of-the-art Performance and #1** on the CheXphoto smartphone-captured photos of chest X-ray classification competition dataset
 
-## Social Contribution
+## Social Contributions
 
 - **Session Chair**  
 The 2023 International Conference on Neural Information Processing (ICONIP)  
 Changsha, China. November 20-23, 2023. [Program Link](http://iconip2023.org/News/Program_Final.pdf)
+- **Invitied Presentation**  
+A Brief Introduction to Digital Image Geometric Transformation and Its Applications  
+Macao Polytechnic University, Macao SAR, China. March 23, 2023.
+- **Invitied Presentation**  
+Smartphone-captured Photos of Chest X-ray Automatic Interpretation Based on Deep Learning  
+Macao Polytechnic University, Macao SAR, China. October 26, 2022.
 
 ## Teaching Experiences
 
